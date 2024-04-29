@@ -1,0 +1,2 @@
+# BoldTextView
+BoldHTML discontinued, BoldTextView 
